@@ -1,3 +1,1 @@
-[![Tokscale Stats](https://tokscale.ai/api/embed/scooorpion/svg)](https://tokscale.ai/u/scooorpion)
-
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/scooorpion/svg?theme=light&graph=1&tokens=full&cost=full)](https://tokscale.ai/u/scooorpion)
